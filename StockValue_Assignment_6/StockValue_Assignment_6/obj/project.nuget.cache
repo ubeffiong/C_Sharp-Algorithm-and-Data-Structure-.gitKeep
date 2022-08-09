@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "PR/WiGoK08MsQQnJUYtX00Ca17KzyCyz7NSx/4QoRT2yFY/bCSpqd47eyY5qKBii/toye69RGRTmowVqxJ2v4A==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C# Algorithm and Data Structures\\StockValue_Assignment_6\\StockValue_Assignment_6\\StockValue_Assignment_6.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
