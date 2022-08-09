@@ -1,0 +1,11 @@
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.exe
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.deps.json
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.runtimeconfig.json
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.runtimeconfig.dev.json
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.dll
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\bin\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.pdb
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\obj\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.csprojAssemblyReference.cache
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\obj\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.AssemblyInfoInputs.cache
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\obj\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.AssemblyInfo.cs
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\obj\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.dll
+C:\Project\C# Algorithm and Data Structures\RemoveEvenIntegersFromArray\RemoveEvenIntegersFromArray\obj\Debug\netcoreapp3.0\RemoveEvenIntegersFromArray.pdb
