@@ -1,0 +1,16 @@
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.exe
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.deps.json
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.runtimeconfig.json
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.runtimeconfig.dev.json
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.dll
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\bin\Debug\net5.0\FindFactorial.pdb
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.csproj.AssemblyReference.cache
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.AssemblyInfoInputs.cache
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.AssemblyInfo.cs
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.csproj.CoreCompileInputs.cache
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.dll
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\refint\FindFactorial.dll
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.pdb
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\FindFactorial.genruntimeconfig.cache
+C:\Projects\C# Algorithm&DataStructure\FindFactorial\FindFactorial\obj\Debug\net5.0\ref\FindFactorial.dll
