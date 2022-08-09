@@ -1,0 +1,11 @@
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.exe
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.deps.json
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.runtimeconfig.json
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.runtimeconfig.dev.json
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.dll
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\bin\Debug\netcoreapp3.0\FindTheMinimumValueInArray.pdb
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\obj\Debug\netcoreapp3.0\FindTheMinimumValueInArray.csprojAssemblyReference.cache
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\obj\Debug\netcoreapp3.0\FindTheMinimumValueInArray.AssemblyInfoInputs.cache
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\obj\Debug\netcoreapp3.0\FindTheMinimumValueInArray.AssemblyInfo.cs
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\obj\Debug\netcoreapp3.0\FindTheMinimumValueInArray.dll
+C:\Project\C# Algorithm and Data Structures\FindTheMinimumValueInArray\FindTheMinimumValueInArray\obj\Debug\netcoreapp3.0\FindTheMinimumValueInArray.pdb

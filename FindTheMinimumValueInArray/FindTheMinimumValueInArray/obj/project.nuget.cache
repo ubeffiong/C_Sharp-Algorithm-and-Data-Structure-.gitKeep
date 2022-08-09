@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "HynPJWY0OQVJBn9fG7N7jFj/Sufl1RvUOEe27ME6N5yf23ktV2+tvuG9R6UGvrDgctdQrNxpUzU0NyMAyO1Ocg==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\C# Algorithm and Data Structures\\FindTheMinimumValueInArray\\FindTheMinimumValueInArray\\FindTheMinimumValueInArray.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\EFFIONG UBOKOBONG\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
