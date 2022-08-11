@@ -1,0 +1,16 @@
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.exe
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.deps.json
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.json
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.runtimeconfig.dev.json
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.dll
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\bin\Debug\net5.0\ReverseString.pdb
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.csproj.AssemblyReference.cache
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfoInputs.cache
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.AssemblyInfo.cs
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.csproj.CoreCompileInputs.cache
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.dll
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\refint\ReverseString.dll
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.pdb
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ReverseString.genruntimeconfig.cache
+C:\Projects\C# Algorithm&DataStructure\ReverseString\ReverseString\obj\Debug\net5.0\ref\ReverseString.dll
