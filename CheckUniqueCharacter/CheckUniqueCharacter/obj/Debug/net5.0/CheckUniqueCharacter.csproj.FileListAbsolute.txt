@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.exe
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.deps.json
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.dll
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\bin\Debug\net5.0\CheckUniqueCharacter.pdb
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.dll
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\refint\CheckUniqueCharacter.dll
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.pdb
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\CheckUniqueCharacter.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\CheckUniqueCharacter\CheckUniqueCharacter\obj\Debug\net5.0\ref\CheckUniqueCharacter.dll
