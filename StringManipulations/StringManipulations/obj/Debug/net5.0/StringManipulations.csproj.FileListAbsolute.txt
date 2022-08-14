@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.exe
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.deps.json
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.dll
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\bin\Debug\net5.0\StringManipulations.pdb
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.dll
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\refint\StringManipulations.dll
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.pdb
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\StringManipulations.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\StringManipulations\StringManipulations\obj\Debug\net5.0\ref\StringManipulations.dll
