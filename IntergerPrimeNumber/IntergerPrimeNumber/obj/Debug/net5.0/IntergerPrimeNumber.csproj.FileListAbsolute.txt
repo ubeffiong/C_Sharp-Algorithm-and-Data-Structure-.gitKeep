@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.exe
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.deps.json
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.dll
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\bin\Debug\net5.0\IntergerPrimeNumber.pdb
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.dll
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\refint\IntergerPrimeNumber.dll
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.pdb
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\IntergerPrimeNumber.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\IntergerPrimeNumber\IntergerPrimeNumber\obj\Debug\net5.0\ref\IntergerPrimeNumber.dll
