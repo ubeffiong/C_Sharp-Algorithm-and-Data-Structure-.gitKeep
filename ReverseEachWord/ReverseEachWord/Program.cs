@@ -6,6 +6,8 @@ namespace ReverseEachWord
 {
     internal class Program
     {
+        private static object strchar;
+
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Red;
@@ -19,8 +21,8 @@ namespace ReverseEachWord
             String str = " if you can read this, \n" +
                 " you have a strange mind too \n" +
                 " I couldnt beleive that I could \n" +
-                " understood and developed what \n" +
-                " logic I had in mind - \n" +
+                " understand what i was reading \n" +
+                " logic is in the mind - \n" +
                 " The phenomenal power of the human mind \n" +
                 " Following this algorithm : \n" +
                 " It dosent matter in what order the letters \n" +
@@ -53,18 +55,35 @@ namespace ReverseEachWord
         // Function to reverse the given word except the first and the last character
         static String reverseInnerLetter(string word)
         {
-            int len = word.Length;          
+            int len = word.Length;
+            //If word length is less than 3, reverse the all character except first character
+            //however this condition will only affect 3 letter words
+            if (len <= 3)
+            {
+                int n = 1; int m = word.Length -1;
+                char[] strchar1 = word.ToCharArray();
+                while (n < m)
+                {
+                    char temp = strchar1[n];
+                    strchar1[n] = strchar1[m];
+                    strchar1[m] = temp;
+                    n++; m--;
+                }
+                word = new String(strchar1);
+            }
+            //reverse all letters except the first and the last character
+            //however this will not affect 3 letter word or less
             int i = 1; int j = word.Length - 2;
-            char[] strchar = word.ToCharArray();
+            char[] strchar2 = word.ToCharArray();
                       
             while (i < j)
             {                            
-                char temp = strchar[i];
-                strchar[i] = strchar[j];
-                strchar[j] = temp;
+                char temp = strchar2[i];
+                strchar2[i] = strchar2[j];
+                strchar2[j] = temp;
                 i++; j--;
             }
-            word = new String(strchar);           
+            word = new String(strchar2);           
             return word;
         }
         static void reverseWords(String str)
