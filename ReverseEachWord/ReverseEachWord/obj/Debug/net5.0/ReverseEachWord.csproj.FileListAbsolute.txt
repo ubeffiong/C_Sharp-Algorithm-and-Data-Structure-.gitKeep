@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.exe
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.deps.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseEachWord.pdb
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\refint\ReverseEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.pdb
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseEachWord.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ref\ReverseEachWord.dll

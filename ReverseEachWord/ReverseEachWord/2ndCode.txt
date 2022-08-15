@@ -1,0 +1,61 @@
+﻿// C# implementation of the above approach
+using System;
+	
+class GFG
+{
+	
+// Function to reverse the given word except
+// the first and the last character
+static String reverseWord(String str)
+{
+	int len = str.Length;
+	
+	// Pointer to the second character
+	// of the string
+	int i = 1;
+
+	// Pointer to the second last
+	// character of the string
+	int j = str.Length - 2;
+	
+	char[] strchar = str.ToCharArray();
+
+	while (i < j)
+	{
+
+		// Swap str[i] and str[j]
+		char temp = strchar[i];
+		strchar[i] = strchar[j];
+		strchar[j] = temp;
+		i++;
+		j--;
+	}
+	str = new String(strchar);
+	return str;
+}
+
+// Function to reverse every word of the
+// sentence except the first and the
+// last character of the words
+static void reverseWords(String str)
+{
+	String[] tok = str.Split(' ');
+
+	// While there are words left
+	foreach(String w in tok)
+	{
+
+		// Print the reversed word
+		Console.Write(reverseWord(w) + " ");
+	}
+}
+
+// Driver code
+public static void Main (String[] args)
+{
+	String str = "geeks for geeks";
+	reverseWords(str);
+}
+}
+
+// This code is contributed by 29AjayKumar

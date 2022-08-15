@@ -1,0 +1,45 @@
+﻿ internal static void ReverseInnerLetter(string str)
+        {
+            StringBuilder output = new StringBuilder();
+            List<char> charList = new List<char>();
+
+            for (int i = 2; i >= str.Length;)
+            {
+                for (int j = 0; j < str.Length; j++)
+                {
+
+                    if (str[j] == ' ' || j == str.Length - 1)
+                    {
+                        if (j == str.Length - 1)
+                            charList.Add(str[j]);
+                        for (int x = charList.Count - 1; x >= 0; x--)
+                            output.Append(charList[x]);
+
+                        output.Append(' ');
+                        charList = new List<char>();
+                    }
+                    else
+                        charList.Add(str[j]);
+                }
+                Console.WriteLine(output.ToString());
+            }
+
+            for (int i = 3; i < str.Length; i++)
+            {
+
+                if (str[i] == ' ' || i == str.Length - 1)
+                {
+                    if (i == str.Length - 1)
+                        charList.Add(str[i]);
+
+                    for (int j = charList.Count - 1; j >= 0; j--)
+                        output.Append(charList[j]);
+
+                    output.Append(' ');
+                    charList = new List<char>();
+                }
+                else
+                    charList.Add(str[i]);
+            }
+            Console.WriteLine(output.ToString());
+        }
