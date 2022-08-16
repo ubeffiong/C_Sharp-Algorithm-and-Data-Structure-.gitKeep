@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DevRepos\\Learn\\C#_Algorithm\\ReverseEachWord\\ReverseEachWord\\ReverseEachWord.csproj",
-      "projectName": "ReverseEachWord",
-      "projectPath": "E:\\DevRepos\\Learn\\C#_Algorithm\\ReverseEachWord\\ReverseEachWord\\ReverseEachWord.csproj",
+      "projectUniqueName": "E:\\DevRepos\\Learn\\C#_Algorithm\\ReverseEachWord\\ReverseEachWord\\ReverseInnerCharacterofEachWord.csproj",
+      "projectName": "ReverseInnerCharacterofEachWord",
+      "projectPath": "E:\\DevRepos\\Learn\\C#_Algorithm\\ReverseEachWord\\ReverseEachWord\\ReverseInnerCharacterofEachWord.csproj",
       "packagesPath": "C:\\Users\\Effiong\\.nuget\\packages\\",
       "outputPath": "E:\\DevRepos\\Learn\\C#_Algorithm\\ReverseEachWord\\ReverseEachWord\\obj\\",
       "projectStyle": "PackageReference",

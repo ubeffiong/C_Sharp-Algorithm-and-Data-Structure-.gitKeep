@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.exe
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.deps.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\bin\Debug\net5.0\ReverseInnerCharacterofEachWord.pdb
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\refint\ReverseInnerCharacterofEachWord.dll
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.pdb
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ReverseInnerCharacterofEachWord.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\ReverseEachWord\ReverseEachWord\obj\Debug\net5.0\ref\ReverseInnerCharacterofEachWord.dll
