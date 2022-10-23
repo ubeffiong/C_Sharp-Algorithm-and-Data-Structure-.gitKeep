@@ -19,7 +19,7 @@ namespace IntergerPrimeNumber
             if (FindPrime(number))
                 Console.WriteLine($"{number } is a Prime Number");
             else
-            Console.WriteLine($"{number } is Not a Prime Number");
+                Console.WriteLine($"{number } is Not a Prime Number");
         }
         internal static bool FindPrime (int number)
         {

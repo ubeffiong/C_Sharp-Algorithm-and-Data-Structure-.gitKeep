@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.exe
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.deps.json
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.dll
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\bin\Debug\net5.0\Max_Min.pdb
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.dll
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\refint\Max_Min.dll
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.pdb
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\Max_Min.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\Max_Min\Max_Min\obj\Debug\net5.0\ref\Max_Min.dll
