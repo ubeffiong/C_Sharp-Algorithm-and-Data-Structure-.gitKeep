@@ -6,18 +6,6 @@ namespace Max_Min
     {
         static void Main(string[] args)
         {
-            //Find if the word are the same
-            string firstWord = "abk"; string secondWord = "kba";
-            char[] aa = firstWord.ToLower().ToCharArray();
-            char[] bb = secondWord.ToLower().ToCharArray();
-            Array.Sort(aa); Array.Sort(bb);
-            string sortedAA = new string(aa);
-            string sortedBB = new string(bb);
-            if (sortedAA == sortedBB)
-                Console.WriteLine("Pass" + "  -it is anagram");
-            else
-                Console.WriteLine("Fail");
-
             //execute methods to add max and min in an array
             int[] arr = { -1, 9, 2, 5, 3, 6, 8 }; int size = arr.Length;
 
