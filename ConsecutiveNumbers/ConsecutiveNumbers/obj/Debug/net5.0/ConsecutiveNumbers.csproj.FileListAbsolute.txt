@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.exe
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.deps.json
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.dll
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\bin\Debug\net5.0\ConsecutiveNumbers.pdb
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.dll
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\refint\ConsecutiveNumbers.dll
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.pdb
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ConsecutiveNumbers.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\ConsecutiveNumbers\ConsecutiveNumbers\obj\Debug\net5.0\ref\ConsecutiveNumbers.dll
