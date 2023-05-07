@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.exe
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.deps.json
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.dll
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\bin\Debug\net5.0\KeyPadLetterCombinations.pdb
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.dll
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\refint\KeyPadLetterCombinations.dll
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.pdb
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\KeyPadLetterCombinations.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\KeyPadLetterCombinations\KeyPadLetterCombinations\obj\Debug\net5.0\ref\KeyPadLetterCombinations.dll
