@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.exe
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.deps.json
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.runtimeconfig.json
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.runtimeconfig.dev.json
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.dll
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\bin\Debug\net5.0\IntergerToRoman.pdb
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.AssemblyInfo.cs
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.dll
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\refint\IntergerToRoman.dll
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.pdb
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\IntergerToRoman.genruntimeconfig.cache
+E:\DevRepos\Learn\IntergerToRoman\IntergerToRoman\obj\Debug\net5.0\ref\IntergerToRoman.dll

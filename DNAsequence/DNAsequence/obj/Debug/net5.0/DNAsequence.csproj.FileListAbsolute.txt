@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.exe
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.deps.json
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.runtimeconfig.json
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.runtimeconfig.dev.json
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.dll
+E:\DevRepos\Learn\DNAsequence\DNAsequence\bin\Debug\net5.0\DNAsequence.pdb
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.AssemblyInfo.cs
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.dll
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\refint\DNAsequence.dll
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.pdb
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\DNAsequence.genruntimeconfig.cache
+E:\DevRepos\Learn\DNAsequence\DNAsequence\obj\Debug\net5.0\ref\DNAsequence.dll
