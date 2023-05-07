@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\Palindrome.csproj": {}
+    "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\Palindrome.csproj": {}
   },
   "projects": {
-    "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\Palindrome.csproj": {
+    "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\Palindrome.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\Palindrome.csproj",
+        "projectUniqueName": "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\Palindrome.csproj",
         "projectName": "Palindrome",
-        "projectPath": "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\Palindrome.csproj",
+        "projectPath": "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\Palindrome.csproj",
         "packagesPath": "C:\\Users\\Effiong\\.nuget\\packages\\",
-        "outputPath": "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\obj\\",
+        "outputPath": "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

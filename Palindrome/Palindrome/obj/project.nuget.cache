@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v0u/x3f4CqGXg7AJC0Q3Ip56cwfwUZ1gMisQ/ieKhrM7ZnrVJzdjiQS2IP+QHcHt8GuQ6633cfNJRoyn+acoYQ==",
+  "dgSpecHash": "q8QPhtwOm+bhSeOCXY4unJBT7alm8u+ODujymnI/pwVY3lBFHl29HrNyGcz0iuoer6MsWAhRkrQ8tUc5jM7kTg==",
   "success": true,
-  "projectFilePath": "E:\\DevRepos\\PME\\Assignments\\Palindrome\\Palindrome\\Palindrome.csproj",
+  "projectFilePath": "E:\\DevRepos\\Learn\\C#_Algorithm\\Palindrome\\Palindrome\\Palindrome.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

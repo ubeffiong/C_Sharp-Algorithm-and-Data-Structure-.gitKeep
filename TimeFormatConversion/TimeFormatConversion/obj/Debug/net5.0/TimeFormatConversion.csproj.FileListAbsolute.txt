@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.exe
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.deps.json
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.dll
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\bin\Debug\net5.0\TimeFormatConversion.pdb
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.dll
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\refint\TimeFormatConversion.dll
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.pdb
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\TimeFormatConversion.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\TimeFormatConversion\TimeFormatConversion\obj\Debug\net5.0\ref\TimeFormatConversion.dll

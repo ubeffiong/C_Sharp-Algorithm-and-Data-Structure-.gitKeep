@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.exe
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.deps.json
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.dll
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\bin\Debug\net5.0\Assignment7.pdb
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.dll
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\refint\Assignment7.dll
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.pdb
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\Assignment7.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\Assignment7\Assignment7\obj\Debug\net5.0\ref\Assignment7.dll

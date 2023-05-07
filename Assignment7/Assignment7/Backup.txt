@@ -1,0 +1,96 @@
+﻿ static void Main(string[] args)
+        {
+            String strT12 = "07:45:00PM";
+            Console.Write("07:45:00PM in 24 hour format is: ");
+            in24Hours(strT12);
+            Console.WriteLine("");
+
+            String strT24 = "17:45:00";
+            Console.Write("\n17:45:00 in 12 hour format is: ");
+            in12Hours(strT24);
+            Console.WriteLine("");
+        }
+        static void in24Hours(String strT12)
+        { // Covert hours to int
+            int h1 = (int)strT12[1] - '0';
+            int h2 = (int)strT12[0] - '0';
+            int hour = (h2 * 10 + h1 % 10);
+
+            // If time is "AM"
+            if (strT12[8] == 'A')
+            {
+                if (hour == 12)
+                { 
+                    Console.Write("00");
+                    for (int i = 2; i <= 7; i++)
+                        Console.Write(strT12[i]);
+                }
+                else
+                {
+                    for (int i = 0; i <= 7; i++)
+                        Console.Write(strT12[i]);
+                }
+            }
+            // If time is "PM"
+            else
+            {
+                if (hour == 12)
+                {
+                    Console.Write("12");
+                    for (int i = 2; i <= 7; i++)
+                        Console.Write(strT12[i]);
+                }
+                else
+                {
+                    hour = hour + 12;
+                    Console.Write(hour);
+                    for (int i = 2; i <= 7; i++)
+                        Console.Write(strT12[i]);
+                }
+            }
+        }
+        static void in12Hours(string strT24)
+        { //Covert hours to int
+            int h1 = (int)strT24[1] - '0';
+            int h2 = (int)strT24[0] - '0'; 
+            int hour = (h2 * 10 + h1 % 10);
+
+            // Print in 24 hours
+            char[] AntePostMeridiem = new char[2]; // Make the AM or PM array 
+
+            if (hour < 12)
+            { // If the time is less than 12 hour it is AM  
+                AntePostMeridiem[0] = 'A';
+                AntePostMeridiem[1] = 'M';
+            }
+            else
+            { // When the time is greater that 12 hour it is PM 
+                AntePostMeridiem[0] = 'P';
+                AntePostMeridiem[1] = 'M';
+            }
+
+            hour %= 12; // Calculate the 12 hour time 
+
+            // Handle 00 and 12 case separately  
+            if (hour == 0)
+            {
+                Console.Write("12"); // Base format as 00 in 24-hour is 12 in 12-hour  
+
+                // Printing minutes and seconds  
+                for (int i = 2; i < 8; ++i)
+                {
+                    Console.Write(strT24[i]);
+                }
+            }
+            else
+            {
+                Console.Write(hour);
+                // Printing minutes and seconds  
+                for (int i = 2; i < 8; ++i)
+                {
+                    Console.Write(strT24[i]);
+                }
+            }
+            // Add Am or Pm  
+            Console.Write("{0}{1}", AntePostMeridiem[0], AntePostMeridiem[1]);
+        }

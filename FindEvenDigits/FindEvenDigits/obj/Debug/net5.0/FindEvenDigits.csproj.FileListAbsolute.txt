@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.exe
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.deps.json
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.dll
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\bin\Debug\net5.0\FindEvenDigits.pdb
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.dll
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\refint\FindEvenDigits.dll
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.pdb
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\FindEvenDigits.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\FindEvenDigits\FindEvenDigits\obj\Debug\net5.0\ref\FindEvenDigits.dll

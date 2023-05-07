@@ -1,0 +1,16 @@
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.exe
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.deps.json
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.runtimeconfig.json
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.runtimeconfig.dev.json
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.dll
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\bin\Debug\net5.0\ConvertCharacterToASCII.pdb
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.csproj.AssemblyReference.cache
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.AssemblyInfoInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.AssemblyInfo.cs
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.csproj.CoreCompileInputs.cache
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.dll
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\refint\ConvertCharacterToASCII.dll
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.pdb
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ConvertCharacterToASCII.genruntimeconfig.cache
+E:\DevRepos\Learn\C#_Algorithm\ConvertCharacterToASCII\ConvertCharacterToASCII\obj\Debug\net5.0\ref\ConvertCharacterToASCII.dll
